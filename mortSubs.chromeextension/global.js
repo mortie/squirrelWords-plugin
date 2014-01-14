@@ -59,7 +59,6 @@ var subs = {
 	"Wrap": "Attack",
 	"Question": "Questchin",
 	"Comment": "Complaint",
-	"Hide": "Hide yo wive",
 	"Report": "Fuck",
 	"Star": "Anus",
 	"GNU": "Hipster",
@@ -75,7 +74,8 @@ var subs = {
 	"Penis": "Willy",
 	"IDE": "Tribal homeland",
 	"Its": "Her",
-	"Project": "Girlfriend"
+	"Project": "Girlfriend",
+	"Porn": "Pleeeeasure"
 }
 
 walk(document.body);
@@ -106,7 +106,9 @@ function substitute(textNode)  {
 	var v = textNode.nodeValue;
 	for (i in subs) {
 		v = v.replace(new RegExp("("+i+")"), subs[i]);
-		v = v.replace(new RegExp("("+i+")", "gi"), subs[i].toLowerCase());
+		if (subs[i].match(/[a-z]/ != null)) {
+			v = v.replace(new RegExp("("+i+")", "gi"), subs[i].toLowerCase());
+		}
 	}
 
 	textNode.nodeValue = v;

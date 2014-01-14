@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "mortSubs",
-  "description": "Some fun replacements, most stolen from XKCD.",
+  "description": "Some fun replacements, many stolen from XKCD.",
   "version": "1.1",
   "permissions": [
     "tabs", "http://*/*, https://*/*"
