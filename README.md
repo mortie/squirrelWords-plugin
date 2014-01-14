@@ -11,11 +11,12 @@ Installation:
 	* Find the `mortSubs.crx` file you downloaded, and drag it into the Chrome window.
 * Safari:
 	* Download [mortSubs.safariextz](https://github.com/mortie/mortSubs/raw/master/mortSubs.safariextz)
-	* Double click the `mortSubs.safariextz' file and press `install`
+	* Double click the `mortSubs.safariextz` file and press `install`
 
 [XKCD is guilty of a lot of this.](http://xkcd.com/1288)
 
 ***Words it substitutes:***
+
 	"Keyboard": "Leopard",
 	"The cloud": "My butt",
 	"Cloud": "Butt",
