@@ -6,23 +6,67 @@ mortSubs does a couple of fun substitutions of words on webpages.
 
 ***Words it substitutes:***
 
-	leopard -> leopard
-	my butt -> my butt
-	butt -> butt
-	interbutt -> interbutt
-	these dudes i know -> these dudes I know
-	kinda probably -> kinda probably
-	tumblr post -> tumblr post
-	avenge -> avenge
-	spaaace -> spaaace
-	virtual boy -> virtual boy
-	pokédex -> pokédex
-	atomic -> atomic
-	elf-lord -> elf-lord
-	rivendell -> rivendell
-	cat -> cat
-	eating contest -> eating contest
-	river spirits -> river spirits
-	homestar runner -> homestar runner
-	is guilty -> is guilty
-	is guilty for comment -> is guilty and everyone knows it
+	"Leopard": "Leopard",
+	"My butt": "My butt",
+	"Butt": "Butt",
+	"Interbutt": "Interbutt",
+	"These dudes I know": "These dudes I know",
+	"Kinda probably": "Kinda probably",
+	"Tumblr post": "Tumblr post",
+	"Avenge": "Avenge",
+	"Spaaace": "Spaaace",
+	"Virtual Boy": "Virtual Boy",
+	"Pokédex": "Pokédex",
+	"Atomic": "Atomic",
+	"Elf-lord": "Elf-lord",
+	"Rivendell": "Rivendell",
+	"Cat": "Cat",
+	"Eating contest": "Eating contest",
+	"river spirits": "river spirits",
+	"Homestar runner": "Homestar runner",
+	"is guilty for comment": "Is guilty and everyone knows it",
+	"Is guilty": "Is guilty",
+	"an Informed source": "My friend Alan",
+	"Programming": "Masturbating",
+	"Programmer": "Masturbator",
+	"Program": "Masturbate",
+	"Script": "Wank",
+	"Scripter": "Wanker",
+	"Webdev": "Wanker",
+	"Web developer": "Wanker",
+	"Scripting": "Wanking",
+	"Wank": "Script",
+	"Masturbating": "Programming",
+	"Masturbator": "Programmer",
+	"Wanker": "Webdev",
+	"Masturbate": "Program",
+	"Wanking": "Scripting",
+	"Continued": "Refused to stfu",
+	"Economist": "Grand mystic",
+	"Microsoft": "Microderp",
+	"Windows": "Vindos",
+	"Apple": "Crapple",
+	"God": "Snorlax",
+	"Distributed": "Disturbed",
+	"Disturbed": "Distributed",
+	"Distribution": "Distrubation",
+	"Disturbation": "Distribution",
+	"Distribute": "Disturb",
+	"Disturb": "Distribute",
+	"Cancel": "Nvm",
+	"Next": "Moar",
+	"Previous": "Moar",
+	"Fork": "Spoon",
+	"Wrap": "Attack",
+	"Question": "Questchin",
+	"Comment": "Complaint",
+	"Hide": "Hide yo wive",
+	"Report": "Fuck",
+	"Commit": "Orgasm",
+	"Walk": "Bounce",
+	"Walked": "Bounced",
+	"Scared": "Spook",
+	"Penis": "Penisn't",
+	"IDE": "Tribal homeland",
+	"Its": "Her",
+	"Project": "Girlfriend"
