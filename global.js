@@ -21,6 +21,10 @@ var subs = {
 	"Could not be reached for comment": "Is guilty and everyone knows it",
 	"Microsoft": "Derpsoft",
 	"Apple": "Penis",
+	"Congressional leaders": "River spirits",
+	"Homeland Security": "Homestar Runner",
+	"Could not be reached": "Is guilty",
+	"Could not be reached for comment": "Is guilty and everyone knows it",
 	"an Informed source": "My friend Alan",
 	"Programming": "Masturbating",
 	"Programmer": "Masturbator",
@@ -64,6 +68,14 @@ var subs = {
 	"Watch": "Molest",
 	"Less": "tl;dr",
 	"Delete": "Eat"
+	"Commit": "Orgasm",
+	"Walk": "Bounce",
+	"Walked": "Bounced",
+	"Scared": "Spook",
+	"Penis": "Penisn't",
+	"IDE": "Tribal homeland",
+	"Its": "Her",
+	"Project": "Girlfriend"
 }
 
 walk(document.body);
