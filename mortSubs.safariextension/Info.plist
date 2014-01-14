@@ -35,7 +35,14 @@
 	<key>Permissions</key>
 	<dict>
 		<key>Website Access</key>
-		<dict/>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+			<key>New item</key>
+			<string></string>
+		</dict>
 	</dict>
 </dict>
 </plist>
