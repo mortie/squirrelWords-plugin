@@ -17,8 +17,8 @@ var subs = {
 	"Eating contest": "Eating contest",
 	"river spirits": "river spirits",
 	"Homestar runner": "Homestar runner",
-	"Is guilty": "Is guilty",
 	"is guilty for comment": "Is guilty and everyone knows it",
+	"Is guilty": "Is guilty",
 	"an Informed source": "My friend Alan",
 	"Programming": "Masturbating",
 	"Programmer": "Masturbator",
@@ -40,6 +40,22 @@ var subs = {
 	"Microsoft": "Microderp",
 	"Windows": "Vindos",
 	"Apple": "Crapple",
+	"God": "Snorlax",
+	"Distributed": "Disturbed",
+	"Disturbed": "Distributed",
+	"Distribution": "Distrubation",
+	"Disturbation": "Distribution",
+	"Distribute": "Disturb",
+	"Disturb": "Distribute",
+	"Cancel": "Nvm",
+	"Next": "Moar",
+	"Previous": "Moar",
+	"Fork": "Spoon",
+	"Wrap": "Attack",
+	"Question": "Questchin",
+	"Comment": "Complaint",
+	"Hide": "Hide yo wive",
+	"Report": "Fuck"
 }
 
 walk(document.body);
