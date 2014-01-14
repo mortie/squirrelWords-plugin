@@ -1,4 +1,25 @@
-// I stole all this stuff from here: https://github.com/panicsteve/cloud-to-butt/blob/master/Source/content_script.js
+var subs = {
+	"Keyboard": "Leopard",
+	"The cloud": "My butt",
+	"Cloud": "Butt",
+	"Internet": "Interbutt",
+	"Witnesses": "These dudes I know",
+	"Allegedly": "Kinda probably",
+	"New study": "Tumblr post",
+	"Rebuild": "Avenge",
+	"Space": "Spaaace",
+	"Google Glasses": "Virtual Boy",
+	"Smartphone": "Pokédex",
+	"Electric": "Atomic",
+	"Senator": "Elf-lord",
+	"Senate": "Rivendell",
+	"Car": "Cat",
+	"Election": "Eating contest",
+	"Congressional Leaders": "river spirits",
+	"Homeland security": "Homestar runner",
+	"Could not be reached": "Is guilty",
+	"Could not be reached for comment": "Is guilty and everyone knows it"
+}
 
 walk(document.body);
 
@@ -25,29 +46,6 @@ function walk(node) {
 }
 
 function substitute(textNode)  {
-	var subs = {
-		"Keyboard": "Leopard",
-		"The cloud": "My butt",
-		"Cloud": "Butt",
-		"Internet": "Interbutt",
-		"Witnesses": "These dudes I know",
-		"Allegedly": "Kinda probably",
-		"New study": "Tumblr post",
-		"Rebuild": "Avenge",
-		"Space": "Spaaace",
-		"Google Glasses": "Virtual Boy",
-		"Smartphone": "Pokédex",
-		"Electric": "Atomic",
-		"Senator": "Elf-lord",
-		"Senate": "Rivendell",
-		"Car": "Cat",
-		"Election": "Eating contest",
-		"Congressional Leaders": "river spirits",
-		"Homeland security": "Homestar runner",
-		"Could not be reached": "Is guilty",
-		"Could not be reached for comment": "Is guilty and everyone knows it"
-	}
-	
 	var v = textNode.nodeValue;
 	for (i in subs) {
 		v = v.replace(new RegExp("("+i+")"), subs[i]);
