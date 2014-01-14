@@ -36,7 +36,6 @@ var subs = {
 	"Wanking": "Scripting",
 	"Continued": "Refused to stfu",
 	"Economist": "Grand mystic",
-	"Penis": "Willy",
 	"Microsoft": "Microderp",
 	"Windows": "Vindos",
 	"Apple": "Crapple",

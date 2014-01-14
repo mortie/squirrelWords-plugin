@@ -36,7 +36,6 @@ var subs = {
 	"Wanking": "Scripting",
 	"Continued": "Refused to stfu",
 	"Economist": "Grand mystic",
-	"Penis": "Willy",
 	"Microsoft": "Microderp",
 	"Windows": "Vindos",
 	"Apple": "Crapple",
@@ -55,7 +54,15 @@ var subs = {
 	"Question": "Questchin",
 	"Comment": "Complaint",
 	"Hide": "Hide yo wive",
-	"Report": "Fuck"
+	"Report": "Fuck",
+	"Commit": "Orgasm",
+	"Walk": "Bounce",
+	"Walked": "Bounced",
+	"Scared": "Spook",
+	"Penis": "Penisn't",
+	"IDE": "Tribal homeland",
+	"Its": "Her",
+	"Project": "Girlfriend"
 }
 
 walk(document.body);
