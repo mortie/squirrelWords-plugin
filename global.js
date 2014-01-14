@@ -67,12 +67,12 @@ var subs = {
 	"Gist": "Weed",
 	"Watch": "Molest",
 	"Less": "tl;dr",
-	"Delete": "Eat"
+	"Delete": "Eat",
 	"Commit": "Orgasm",
 	"Walk": "Bounce",
 	"Walked": "Bounced",
 	"Scared": "Spook",
-	"Penis": "Penisn't",
+	"Penis": "Willy",
 	"IDE": "Tribal homeland",
 	"Its": "Her",
 	"Project": "Girlfriend"
