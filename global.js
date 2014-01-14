@@ -1,6 +1,6 @@
 var subs = {
 	"Keyboard": "Leopard",
-	"The cloud": "My butt",
+	"The Cloud": "My butt",
 	"Cloud": "Butt",
 	"Internet": "Interbutt",
 	"Witnesses": "These dudes I know",
@@ -18,7 +18,25 @@ var subs = {
 	"Congressional Leaders": "river spirits",
 	"Homeland security": "Homestar runner",
 	"Could not be reached": "Is guilty",
-	"Could not be reached for comment": "Is guilty and everyone knows it"
+	"Could not be reached for comment": "Is guilty and everyone knows it",
+	"Microsoft": "Derpsoft",
+	"Apple": "Penis",
+	"God": "Snorlax",
+	"Distributed": "Disturbed",
+	"Disturbed": "Distributed",
+	"Distribution": "Distrubation",
+	"Disturbation": "Distribution",
+	"Distribute": "Disturb",
+	"Disturb": "Distribute",
+	"Cancel": "Nvm",
+	"Next": "Moar",
+	"Previous": "Moar",
+	"Fork": "Spoon",
+	"Wrap": "Attack",
+	"Question": "Questchin",
+	"Comment": "Complaint",
+	"Hide": "Hide yo wive",
+	"Report": "Fuck"
 }
 
 walk(document.body);
