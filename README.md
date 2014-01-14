@@ -2,6 +2,8 @@ mortSubs
 ========
 mortSubs does a couple of fun substitutions of words on webpages.
 
+[XKCD is guilty of a lot of this.](http://xkcd.com/1288)
+
 ***Words it substitutes:***
 
 	leopard -> leopard
