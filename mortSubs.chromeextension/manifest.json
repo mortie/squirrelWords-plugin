@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "mortSubs",
+  "description": "Some fun replacements, most stolen from XKCD.",
+  "version": "1.0",
+  "permissions": [
+    "tabs", "http://*/*, https://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["global.js"]
+    }
+  ]
+}
