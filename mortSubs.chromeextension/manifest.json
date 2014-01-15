@@ -3,7 +3,7 @@
 
   "name": "mortSubs",
   "description": "Some fun replacements, many stolen from XKCD.",
-  "version": "1.3",
+  "version": "1.4",
   "permissions": [
     "tabs", "http://*/*, https://*/*"
   ],
