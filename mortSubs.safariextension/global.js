@@ -54,7 +54,6 @@ var subs = {
 	"Question": "Questchin",
 	"Comment": "Complaint",
 	"Report": "Fuck",
-	"Star": "Anus",
 	"GNU": "Hipster",
 	"Git": "Pot",
 	"Gist": "Weed",
@@ -107,6 +106,11 @@ function substitute(textNode)  {
 		
 		v = v.replace(new RegExp("(\\s"+i+")", "gi"), " "+subs[i].toLowerCase());
 		v = v.replace(new RegExp("("+i+"\\s)", "gi"), subs[i].toLowerCase()+" ");
+
+		if (v.toLowerCase == subs[i].toLowerCase) {
+			v = v.replace(new RegExp("("+i+")"), subs[i]);
+			v = v.replace(new RegExp("("+i+")", "gi"), subs[i].toLowerCase());
+		}
 	}
 
 	textNode.nodeValue = v;
