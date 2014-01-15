@@ -27,7 +27,9 @@ var subs = [
 	["Could not be reached", "Is guilty"],
 	["An informed source", "My friend Alan"],
 	["Informed sources", "My buddies"],
-	["Source", "Alan"],
+	["Informed source", "My friend Alan"],
+	["Developer", "Masturbator"],
+	["Code", "Semen"],
 	["Programming", "Masturbating"],
 	["Programmer", "Masturbator"],
 	["Program", "Masturbate"],
@@ -74,7 +76,8 @@ var subs = [
 	["Website", "Wobsite"],
 	["Blog", "Blag"],
 	["Airpont", "Airpart"],
-	["Batman", "A man dressed like a bat"]
+	["Batman", "A man dressed like a bat"],
+	["Opinion", "Onion"]
 ]
 
 walk(document.body);
