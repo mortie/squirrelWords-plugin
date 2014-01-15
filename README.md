@@ -91,4 +91,5 @@ Installation:
 	["Porn", "Pleeeeasure"],
 	["Website", "Wobsite"],
 	["Blog", "Blag"],
-	["Airpont", "Airpart"]
+	["Airpont", "Airpart"],
+	["Batman", "A man dressed like a bat"]
