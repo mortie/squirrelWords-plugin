@@ -71,7 +71,10 @@ var subs = {
 	"Porn": "Pleeeeasure",
 	"Website": "Wobsite",
 	"Blog": "Blag",
-	"Airpont": "Airpart"
+	"Airpont": "Airpart",
+	"Mega": "Biggy",
+	"Children": "Younglings",
+	"Child": "Youngling"
 }
 
 walk(document.body);
