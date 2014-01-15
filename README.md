@@ -18,7 +18,7 @@ Installation:
 ***Words it substitutes:***
 
 	"Keyboard": "Leopard",
-	"The cloud": "My butt",
+	"The Cloud": "My Butt",
 	"Cloud": "Butt",
 	"Internet": "Interbutt",
 	"Witnesses": "These dudes I know",
@@ -52,12 +52,6 @@ Installation:
 	"Webdev": "Wanker",
 	"Web developer": "Wanker",
 	"Scripting": "Wanking",
-	"Wank": "Script",
-	"Masturbating": "Programming",
-	"Masturbator": "Programmer",
-	"Wanker": "Webdev",
-	"Masturbate": "Program",
-	"Wanking": "Scripting",
 	"Continued": "Refused to stfu",
 	"Economist": "Grand mystic",
 	"Penis": "Willy",
@@ -77,7 +71,6 @@ Installation:
 	"Wrap": "Attack",
 	"Question": "Questchin",
 	"Comment": "Complaint",
-	"Hide": "Hide yo wive",
 	"Report": "Fuck",
 	"Star": "Anus",
 	"GNU": "Hipster",
@@ -93,4 +86,8 @@ Installation:
 	"Penis": "Willy",
 	"IDE": "Tribal homeland",
 	"Its": "Her",
-	"Project": "Girlfriend"
+	"Project": "Girlfriend",
+	"Porn": "Pleeeeasure",
+	"Website": "Wobsite",
+	"Blog": "Blag",
+	"Airpont": "Airpart"

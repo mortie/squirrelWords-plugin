@@ -1,6 +1,6 @@
 var subs = {
 	"Keyboard": "Leopard",
-	"The cloud": "My butt",
+	"The Cloud": "My Butt",
 	"Cloud": "Butt",
 	"Internet": "Interbutt",
 	"Witnesses": "These dudes I know",
@@ -34,12 +34,6 @@ var subs = {
 	"Webdev": "Wanker",
 	"Web developer": "Wanker",
 	"Scripting": "Wanking",
-	"Wank": "Script",
-	"Masturbating": "Programming",
-	"Masturbator": "Programmer",
-	"Wanker": "Webdev",
-	"Masturbate": "Program",
-	"Wanking": "Scripting",
 	"Continued": "Refused to stfu",
 	"Economist": "Grand mystic",
 	"Penis": "Willy",
@@ -75,7 +69,10 @@ var subs = {
 	"IDE": "Tribal homeland",
 	"Its": "Her",
 	"Project": "Girlfriend",
-	"Porn": "Pleeeeasure"
+	"Porn": "Pleeeeasure",
+	"Website": "Wobsite",
+	"Blog": "Blag",
+	"Airpont": "Airpart"
 }
 
 walk(document.body);
@@ -105,10 +102,11 @@ function walk(node) {
 function substitute(textNode)  {
 	var v = textNode.nodeValue;
 	for (i in subs) {
-		v = v.replace(new RegExp("("+i+")"), subs[i]);
-		if (subs[i].match(/[a-z]/ != null)) {
-			v = v.replace(new RegExp("("+i+")", "gi"), subs[i].toLowerCase());
-		}
+		v = v.replace(new RegExp("(\\s"+i+")"), " "+subs[i]);
+		v = v.replace(new RegExp("("+i+"\\s)"), subs[i]+" ");
+		
+		v = v.replace(new RegExp("(\\s"+i+")", "gi"), " "+subs[i].toLowerCase());
+		v = v.replace(new RegExp("("+i+"\\s)", "gi"), subs[i].toLowerCase()+" ");
 	}
 
 	textNode.nodeValue = v;
