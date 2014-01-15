@@ -65,7 +65,6 @@ var subs = {
 	"Walked": "Bounced",
 	"Scared": "Spook",
 	"Penis": "Willy",
-	"IDE": "Tribal homeland",
 	"Its": "Her",
 	"Project": "Girlfriend",
 	"Porn": "Pleeeeasure",
