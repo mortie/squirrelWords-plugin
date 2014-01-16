@@ -1,6 +1,6 @@
-mortSubs
+squirrelWords
 ========
-mortSubs does a couple of fun substitutions of words on webpages.
+squirrelWords does a couple of fun substitutions of words on webpages.
 
 Installation:
 -------------
