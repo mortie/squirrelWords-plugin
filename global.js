@@ -50,12 +50,11 @@ var subs = [
 	["Distribute", "Disturb"],
 	["Disturb", "Distribute"],
 	["Cancel", "Nvm"],
-	["Next", "Moar"],
-	["Previous", "Moar"],
 	["More", "Moar"],
 	["Fork", "Spoon"],
 	["Wrap", "Attack"],
 	["Question", "Questchin"],
+	["Commenter", "Complainer"],
 	["Comment", "Complaint"],
 	["Report", "Fuck"],
 	["Journal", "Fuck"],
@@ -86,6 +85,9 @@ walk(document.body);
 function walk(node) {
 	// I stole this function from here:
 	// http://is.gd/mwZp7E
+	if (node == null)
+		return;
+
 	var child, next;
 	
 	switch (node.nodeType) {
@@ -116,7 +118,7 @@ function substitute(textNode)  {
 			v = v.replace(new RegExp("(\\s"+sub[0]+")", "gi"), " "+sub[1].toLowerCase());
 			v = v.replace(new RegExp("("+sub[0]+"\\s)", "gi"), sub[1].toLowerCase()+" ");
 
-			if (v.toLowerCase == sub[0].toLowerCase) {
+			if (v.toLowerCase() == sub[0].toLowerCase()) {
 				v = v.replace(new RegExp("("+sub[0]+")"), sub[1]);
 				v = v.replace(new RegExp("("+sub[0]+")", "gi"), sub[1].toLowerCase());
 			}
