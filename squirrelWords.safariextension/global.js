@@ -78,7 +78,11 @@ var subs = [
 	["Blog", "Blag"],
 	["Airpont", "Airpart"],
 	["Batman", "A man dressed like a bat"],
-	["Opinion", "Onion"]
+	["Opinion", "Onion"],
+	["Squirrel", "Tallefjant"],
+	["Banana", "Gulebøy"],
+	["Shark", "Kjempetorsk"],
+	["Toilet paper", "Rumpekrafs"]
 ]
 
 walk(document.body);

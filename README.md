@@ -1,17 +1,17 @@
-mortSubs
+squirrelWords
 ========
-mortSubs does a couple of fun substitutions of words on webpages.
+squirrelWords does a couple of fun substitutions of words on webpages.
 
 Installation:
 -------------
 
 * Google Chrome: 
-	* Download [mortSubs.crx](https://github.com/mortie/mortSubs/raw/master/mortSubs.crx)
-	* Open Chrome and go to `chrome://extensions`
-	* Find the `mortSubs.crx` file you downloaded, and drag it into the Chrome window.
+	* Download [squirrelWords.crx](https://github.com/mortie/squirrelWords/raw/master/squirrelWords.crx)
+	* Open Chrome and go to [`chrome://extensions`](chrome://extensions)
+	* Find the `squirrelWords.crx` file you downloaded, and drag it into the Chrome window.
 * Safari:
-	* Download [mortSubs.safariextz](https://github.com/mortie/mortSubs/raw/master/mortSubs.safariextz)
-	* Double click the `mortSubs.safariextz` file and press `install`
+	* Download [squirrelWords.safariextz](https://github.com/mortie/squirrelWords/raw/master/squirrelWords.safariextz)
+	* Double click the `squirrelWords.safariextz` file and press `install`
 
 [XKCD is guilty of a lot of this.](http://xkcd.com/1288)
 
