@@ -68,7 +68,6 @@ var subs = [
 	["Walking", "Bouncing"],
 	["Walk", "Bounce"],
 	["Scared", "Spook"],
-	["Penis", "Willy"],
 	["Its", "Her"],
 	["Application", "Girlfriend"],
 	["Project", "Girlfriend"],
@@ -81,7 +80,19 @@ var subs = [
 	["Squirrel", "Tallefjant"],
 	["Banana", "Gulebøy"],
 	["Shark", "Kjempetorsk"],
-	["Toilet paper", "Rumpekrafs"]
+	["Toilet paper", "Rumpekrafs"],
+	["Google", "Gurgle"],
+	["Amazon", "Barnes & Noble"],
+	["Computer","Compy 386"],
+	["Bitcoin", "Monopoly Money"],
+	["Facebook", "Friendster"],
+	["Email", "Fax"],
+	["Phone", "Telegram"],
+	["Barack Obama", "Boruk Obormo"],
+	["Obama", "Orbomo"],
+	["President", "Glorious Leader"],
+	["CEO", "Support Technician"],
+	["Internet", "Butterfly Net"]
 ]
 
 walk(document.body);
